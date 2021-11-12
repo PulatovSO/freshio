@@ -3046,6 +3046,10 @@ img {
   padding-top: 0;
 }
 
+.about-footer .footer__wrap {
+  margin-bottom: 0;
+}
+
 .about__breadcrumb-nav {
   padding: 130px  0;
   background-image: url(../../img/about.jpg);
